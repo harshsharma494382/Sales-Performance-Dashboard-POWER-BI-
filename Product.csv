@@ -1,0 +1,14 @@
+ProductID,Sub Category Key,Color,ProductName,RetailPrice,StandardCost
+1,3,Red,Silk Saree,23.95,7.55
+2,2,Blue,Silk Kurta,23.95,7.55
+3,2,Green,Cotton Kurta,23.95,7.55
+4,1,Red,Kurta Set,43.95,13.75
+5,1,Blue,Kurta Set with Plazo,43.95,13.75
+6,4,Green,T shirt,43.95,13.75
+7,1,Red,Shirt,26.95,8.25
+8,3,Blue,Silk Men Kurta,26.95,8.25
+9,1,Green,Duptta,26.95,8.25
+10,1,Florescent Pink,Legging,29.95,9.15
+11,4,Florescent Blue,Shorts,29.95,9.15
+7,1,Red,Swimwear,26.95,8.25
+10,1,Florescent Pink,Shirt,29.95,9.15
