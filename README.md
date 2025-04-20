@@ -23,8 +23,7 @@ This **Performance Dashboard** was developed using **Power BI** to provide insig
 This dashboard is ideal for **business analysts, managers**, and **sales teams** seeking real-time, data-driven insights into sales performance, revenue distribution, and strategic growth opportunities.
 
 ## 📸 Dashboard Preview
-"C:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot 2025-03-11 140859.png"
----
+"C:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot 2025-03-11 140859.png"(https://github.com/user-attachments/assets/2c09f3d2-0c33-4686-a670-af5546e7de53)
 
 ## 📬 Contact Me
 
